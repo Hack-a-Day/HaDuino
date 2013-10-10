@@ -4,10 +4,10 @@
 
 Under our new ownership, Hackaday is now able to bring you the latest and the greatest Open Hardware projects 
 designed <i>completely in house</i>. For our first such experimentation in our own custom hardware, we decided
-to build what we love: an Arduino-compatable development board that blinks an LED.<p>
+to build what we love: an Arduino-compatable development board that blinks a LED.<p>
 
-However, after a cursory review of existing development boards, we were somewhat dejected; we realized everything
-that could be done with a dev board had already been done. After some serious drin^H^H^H^Hthinking, the brains
+However, following a cursory review of existing development boards, we were somewhat dejected; we realized everything
+that could be done with an Arduino board had already been done. After some serious drin^H^H^H^Hthinking, the brains
 behind Hackaday came up with an entirely new paradigm for what development boards can do.<p>
 
 <H3>It's a freakin' bottle opener<H3><p>
