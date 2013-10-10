@@ -34,4 +34,4 @@ you please.
 Rock on.
 
 PS: This is totally not an Arduino (Hi Massimo! Like your HaD t-shirt?) and anyone calling it that will face the fury
-of a hundred geese-sized geese.
+of a hundred goose-sized geese.
