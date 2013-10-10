@@ -14,7 +14,7 @@ behind Hackaday came up with an entirely new paradigm for what development board
 
 Really, how sweet is that? I mean just look at this thing:
 
-<img src="http://github.com/Hack-a-Day/HaDuino/blob/master/BoardTop.png">
+<img src="https://raw.github.com/Hack-a-Day/HaDuino/master/BoardTop.png">
 
 Actually, it's pretty sucky as a bottle opener. We ended up breaking the first one we tested. Nevertheless, in the
 spirit of open hardware, we're giving out our files and hoping some of you can improve on it. Maybe you want to
@@ -24,4 +24,14 @@ your own.
 
 Oh, the back silk screen is pretty sweet:
 
-<img src="http://github.com/Hack-a-Day/HaDuino/blob/master/Silk.png">
+<img src="https://raw.github.com/Hack-a-Day/HaDuino/master/Silk.png">
+
+So there you go. Schematic and BOM are in the PDF, if you get a board made (I'm sharing it 
+<a href="http://oshpark.com/shared_projects/lNlBlB2y">at OSH Park</a>. It's about $30 for three boards) you most likely
+already have the components to make this lying around in your parts bin. Gerbers are up as well, do with them as
+you please.
+
+Rock on.
+
+PS: This is totally not an Arduino (Hi Massimo! Like your HaD t-shirt?) and anyone calling it that will face the fury
+of a hundred geese-sized geese.
